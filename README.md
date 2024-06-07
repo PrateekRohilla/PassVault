@@ -1,6 +1,5 @@
 # PassVault - Password Manager
 
-## Project Overview
 **PassVault** is a password manager web application that allows users to securely store, update, and delete their site credentials. With a clean and responsive UI, PassVault ensures easy and quick access to saved passwords and usernames, facilitating seamless logins.
 
 ## Installation
@@ -39,7 +38,7 @@ After running the development server, you can start using PassVault to manage yo
 
 
 ## Screenshots
-![PassVault Home](screenshots/home.png)
+![passvault](https://github.com/PrateekRohilla/PassVault/assets/23234142/2f092f57-8571-4186-9a52-5f81ae4d8722)
 
 
 ## Live Demo
