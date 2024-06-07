@@ -42,6 +42,8 @@ const Manager = () => {
       alert("Password not saved\nEnter correct details");
     }
   }
+  
+
 
   const deletePassword = (id) => {
     let c = confirm("Do you really want to delete this Password?")
